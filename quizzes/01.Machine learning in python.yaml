@@ -15,7 +15,7 @@ questions:
       - 1
       options:
         - A subset of machine learning
-        - where machines are trained and made to 'learn' from a set of traing data
+        - where machines are trained and made to 'learn' from a set of training data
         - A superset of machine learning.
   
   - question: Select the options where machine learning is involved
