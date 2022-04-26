@@ -1,0 +1,24 @@
+topic: Machine Learning in python
+subject: Data processing and Multivaraite Linear Regression
+questions:
+
+  question: Multivaraite Regression  is basically linear regression but the output is dependent on more than one feature/variable
+  answers:
+    - 0
+  options:
+    - True
+    - False
+
+  questions: What is data processing?
+    answers:
+      - 0
+      - 1
+    options:
+      - When the dataset is processed to better fit the model
+      - When any missing values of any featute of the dataset is filled before training the model with machine learning
+
+  questions: price= m1*____+ m2*bedrooms+ ____*age+ _____?
+    answers:
+      - area
+      - m3
+      - intercept
