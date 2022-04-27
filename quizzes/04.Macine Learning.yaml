@@ -1,0 +1,46 @@
+topic: Machine learning
+subject: Gradient Descent and Cost Function
+questions:
+
+  question: Gradient descent is an ___ that finds the ___ line for a given training data set.
+  answers:
+    - algorithm
+    - best fit
+
+  question: Why are we looking into gradient descent?
+  answers:
+    - 0
+    - 1
+  options:
+    - better understand how libraries like sklearn work 
+    - get a clear idea how we get the best fit line
+    - absolutely vital to know in order to become an AI expert
+
+  question: Why are the deltas are sqaured in mean squared error?
+  answers:
+    - 1
+    - 2
+  options:
+    - squaring is essential while working with gradient descent
+    - squaring eliminates negative delta values thus no chance of getting skewed outputs
+    - increases the accuracy of the best fit line
+
+  question: Mean squared error is a type of ?
+  answers:
+    - 3
+   options:
+    - delta function
+    - error function
+    - sigma function
+    - cost function
+
+  question: We should keep tweaking the learning rate until the cost values decrease gradually.
+  answers:
+    - 0
+  options:
+    - True
+    - False  
+
+
+
+
