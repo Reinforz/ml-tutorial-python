@@ -1,0 +1,27 @@
+topic: Machine learning
+subject: Split testing
+questions:
+  - question: What is the benefit of split test
+    answers:
+      - 0
+    options:
+      - We can directly compare the predicted values of y with the actual values of y, for the test part of the dataset.
+      - Takes less than time to train
+      - Produces more accurate prediction
+
+  - question: Why does the method use different training set every time the split test is called?
+    answers:
+      - 3
+      -
+    options:
+      - Using same samples for making predictions might give the wrong impression about accuracy of the model.
+      - It is like you ask same questions in exam paper as you tought the students in the class.
+      - All of the above
+
+  - question: What does the score method return?
+    answers:
+      - 0
+    options:
+      - It returns the accuracy score of the model.
+      - It returns the perfomance score of the model.
+      - It retuns the score of the training data set.
