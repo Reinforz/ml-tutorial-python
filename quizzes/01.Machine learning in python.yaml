@@ -13,20 +13,19 @@ questions:
     answers:
       - 0
       - 1
-      options:
-        - A subset of machine learning
-        - where machines are trained and made to 'learn' from a set of training data
-        - A superset of machine learning.
-  
+    options:
+      - A subset of machine learning
+      - where machines are trained and made to 'learn' from a set of training data
+      - A superset of machine learning.
+
   - question: Select the options where machine learning is involved
     answers:
       - 1
       - 2
       - 4
-      options:
-        - Sorting algorithms (Brute, select, insert,merge, quick)
-        - Self-driving cars
-        - Google assistant, Alexa etc.
-        - Web development
-        - Spam filters
-        
+    options:
+      - Sorting algorithms (Brute, select, insert,merge, quick)
+      - Self-driving cars
+      - Google assistant, Alexa etc.
+      - Web development
+      - Spam filters

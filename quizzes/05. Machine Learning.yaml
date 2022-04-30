@@ -1,31 +1,30 @@
 topic: Machine Learning
 subject: Saving models using Joblib and Pickle
 questions:
-  question: Solving problems with machine learning involves ___ steps.
-  answers:
-    - two
+  - question: Solving problems with machine learning involves ___ steps.
+    answers:
+      - two
 
-  question: The two steps of solving problems with machine learning are
-  answers:
-    - 0
-    - 1
+  - question: The two steps of solving problems with machine learning are
+    answers:
+      - 0
+      - 1
     options:
       - Training the model with with training datasets
       - Asking the trained model questions to get answers
-  
-  question: It is better to use Joblib than Pickle to store models with numpu arrays.
-  answer:
-    - 0
-  options:
-    - True
-    - False
 
-  question: Why do we save trained models?
-  answer:
-    - 0
-    - 1
-  options:
-    - Saves time and resources
-    - makes it easier to share trained models
-    - trained models dont work unless it is saved   
+  - question: It is better to use Joblib than Pickle to store models with numpu arrays.
+    answer:
+      - 0
+    options:
+      - True
+      - False
 
+  - question: Why do we save trained models?
+    answer:
+      - 0
+      - 1
+    options:
+      - Saves time and resources
+      - makes it easier to share trained models
+      - trained models dont work unless it is saved
