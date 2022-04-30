@@ -1,0 +1,55 @@
+topic: Machine Learning
+subject: Dummy variables and one hot coding
+questions:
+  - question: How many types of categorical values?
+    answers:
+      - 0
+    options:
+      - 2
+      - 3
+      - 4
+
+  - question: Which categorical value has some sort of relation between its values?
+    answers:
+      - 0
+    options:
+      - ordinal
+      - nominal
+
+  - question: Customer satisfaction rating system is an example of which type of categorical value?
+    answers:
+      - 0
+    options:
+      - ordinal
+      - nominal
+
+  - question: What is the dummy variable trap?
+    answers:
+      - 0
+    options:
+      - The Dummy variable trap is a scenario where there are attributes that are highly correlated (Multicollinear) and one variable predicts the value of others.
+      - The Dummy variable trap is a scenario where there are attributes that are moderately correlated (Multicollinear) and one variable predicts the value of others.
+      - The Dummy variable trap is a scenario where there are attributes that are highly correlated (Multicollinear) but one variable cannot predict the value of others.
+
+  - question: How to fix the dummy variable trap?
+    answers:
+      - 0
+    options:
+      - drop 1 dummy variable column
+      - add 1 more dummy variable column
+
+  - question: What is one hot encoding?
+    answers:
+      - 0
+      - 2
+    options:
+      - With one-hot, we convert each categorical value into a new categorical column and assign a binary value of 1 or 0 to those columns. Each integer value is represented as a binary vector.
+      - With one-hot, we convert each categorical value into a new categorical column and assign a decimal value from 0 to 9 to those columns. Each integer value is represented as a decimal vector.
+      - One hot encoding is one method of converting data to prepare it for an algorithm and get a better prediction.
+
+  - question: One hot encoding can be done using both panda dataframe and sklearn library.
+    options:
+      - True
+      - False
+    answers:
+      - 0
