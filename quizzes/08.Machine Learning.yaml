@@ -1,0 +1,40 @@
+topic: Machine Learning
+subject: Logistic Regression (Binary Classification)
+questions:
+  - question: When is Logistic Regression used?
+    answers:
+      - 0
+    options:
+      - To predict categorical Classification type problems
+      - To predict values of continous problems
+
+  - question: What is Binary Classification?
+    answers:
+      - 0
+    options:
+      - There are two classes
+      - There are more than two classes
+      - Only class
+  - question: What is Multiclass classification?
+    answers:
+      - 1
+    options:
+      - Two or more classes
+      - More than two classes
+      - More than one classes
+
+  - question: What is the problem with using linear regression to build prediction models for categorical classification type problems?
+    answers:
+      - 0
+      - 2
+    options:
+      - Extreme values will shift the line and give incorrect predictions
+      - It can only work with continous linear datasets (where the predicted value is continous)
+      - It is not suitable to use with categorical values
+
+  - question: y=1/(1+e^-(mx+b)) is the sigmoid function used for logistic regression.
+    options:
+      - Yes
+      - No
+    answers:
+      - 0
