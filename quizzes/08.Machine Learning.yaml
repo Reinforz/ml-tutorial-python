@@ -38,3 +38,11 @@ questions:
       - No
     answers:
       - 0
+
+  - question: What is used to determine the instances where our trained models failed to perform well?
+    answers:
+      - 0
+    options:
+      - Confusion Matrix
+      - One hot Encoding
+      - Regression models
