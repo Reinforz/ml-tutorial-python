@@ -5,7 +5,7 @@ from sklearn import linear_model
 import joblib
 
 
-df=pd.read_csv("code/01.homeprices.csv")
+df=pd.read_csv("code/02.homeprices.csv")
 print(df)
 
 model=linear_model.LinearRegression()
@@ -13,19 +13,19 @@ model.fit(df[['area']],df.price)
 
 print(model.predict([[5000]]))
 #Saving model
-with open('code/04.model_pickle','wb') as file:
+with open('code/05.model_pickle','wb') as file:
     pickle.dump(model,file)
 
 #Loading model
-with open('code/04.model_pickle','rb') as file:
+with open('code/05.model_pickle','rb') as file:
     mp = pickle.load(file)
 print(mp.predict([[5000]]))
 
 #Using Joblib
 #Saving
-joblib.dump(model, 'code/04.model_joblib')
+joblib.dump(model, 'code/05.model_joblib')
 
 # Loading Saved Model
-mj = joblib.load('code/04.model_joblib')
+mj = joblib.load('code/05.model_joblib')
 
 print(mj.predict([[5000]]))

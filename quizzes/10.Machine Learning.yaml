@@ -1,0 +1,61 @@
+topic: Machine Learning
+subject: Decision Tree
+questions:
+  - question: What does decision tree algorithm do?
+    answers:
+      - 0
+    options:
+      - breaks up complex data with decision boundaries
+      -
+      -
+
+  - question: Does order of splitting a decision tree matter?
+    options:
+      - Yes
+      - No
+    answers:
+      - 0
+
+  - question: How do you decide the order of splitting the data set?
+    answers:
+      - 0
+      - 1
+      - 2
+    options:
+      - low entropy
+      - low randomness
+      - high information
+
+  - question: What is Gini impurity?
+    answers:
+      - 0
+      - 1
+      - 2
+    options:
+      - Gini impurity is a function that determines how well a decision tree was split.
+      - It helps us to determine which splitter is best so that we can build a pure decision tree.
+      - Impurity in our dataset.
+
+  - question: Gini impurity ranges values from 0 to 0.5.
+    options:
+      - Yes
+      - No
+    answers:
+      - 0
+
+  - question: What is label encoder?
+    answers:
+      - 0
+    options:
+      - One of the ways to convert labels to numbers that machines can understand
+      - encodes labels for better understanding of humans
+      - creates labels from codes
+
+  - question: What are the differnces between Gini and Entropy?
+    answers:
+      - 0
+      - 1
+    options:
+      - Computationally, entropy is more complex since it makes use of logarithms and consequently, the calculation of the Gini Index will be faster.
+      - Gini Index has values inside the interval [0, 0.5] whereas the interval of the Entropy is [0, 1].
+      - Computationally, Gini Index is more complex since it makes use of logarithms and consequently, the calculation of the Entropy will be faster.
