@@ -1,0 +1,35 @@
+topic: Machine Learning
+subject: support vector machine
+questions:
+  - question: In case of support vector machine, the margin between support vectors are best if they are greatest.
+    answers:
+      - 0
+    options:
+      - True
+      - False
+      -
+  - question: Select the correct options about gamma in support vector machines.
+    answers:
+      - 0
+      - 1
+      - 2
+    options:
+      - the gamma parameter defines how far the influence of a single training example reaches,
+      - The gamma parameters can be seen as the inverse of the radius of influence of samples selected by the model as support vectors.
+      - low values meaning 'far' and high values meaning 'close'.
+
+  - question: What is the differnce between high regularization and low regularization?
+    answers:
+      - 0
+      - 1
+    options:
+      - high regularization is almost overfitting a model when dealing with complex datasets
+      - low regularization might have some classifcation errors but has less computation stress
+      - high regularization might have some classifcation errors but has less computation stress
+
+  - question: A kernel is when we add a new dimension or transform an existing features so that we may have a decision boundary.
+    options:
+      - Yes
+      - No
+    answers:
+      - 0
