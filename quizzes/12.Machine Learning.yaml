@@ -1,0 +1,12 @@
+topic: Machine Learning
+subject: Random Forest
+questions:
+  - question: What is random forrest approach in machine learning?
+    answers:
+      - 0
+      - 1
+      - 2
+    options:
+      - Random Forest is a classifier that contains a number of decision trees on various subsets of the given dataset and takes the average to improve the predictive accuracy of that dataset.
+      - Instead of relying on one decision tree, the random forest takes the prediction from each tree and based on the majority votes of predictions, and it predicts the final output.
+      - It splits up the decision tree into multiple smaller sub decision trees
