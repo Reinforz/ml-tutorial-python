@@ -1,0 +1,58 @@
+topic: Machine Learning
+subject: K Means Clustering Algorithm
+questions:
+  - question: How many types of machine learning algortims?
+    answers:
+      - 0
+    options:
+      - 3
+      - 4
+      - 2
+  - question: Select the machine learning algoritm categories.
+    answers:
+      - 0
+      - 1
+      - 2
+    options:
+      - Reinforced learning
+      - Supervised Learning
+      - Unsupervised Learning
+
+  - question: Supervised learning is when machine learning algorithm has acces to target variables.
+    options:
+      - Yes
+      - No
+    answers:
+      - 0
+
+  - question: Unsupervised learning is training machines with datasets having no target variable/label.
+    options:
+      - Yes
+      - No
+    answers:
+      - 0
+
+  - question: Select the correct options regarding k means clustering algorithm.
+    answers:
+      - 0
+      - 1
+    options:
+      - It is an iterative algorithm that divides the unlabeled dataset into k different clusters in such a way that each dataset belongs only one group that has similar properties.
+      - It allows us to cluster the data into different groups and a convenient way to discover the categories of groups in the unlabeled dataset on its own without the need for any training.
+      - It is a supervised machine learning algorithm.
+
+  - question: What is used to approximate the best value of K?
+    answers:
+      - 0
+    options:
+      - Elbow Method
+      - Elbow Operation
+      - K Means algortims.
+
+  - question: What is the final postion of the centroids?
+    answers:
+      - 0
+    options:
+      - In the center of gravity of given clusters
+      - In the center of mass of given clusters.
+      - At the center of clusters
