@@ -1,0 +1,29 @@
+topic: Machine Learning
+subject: Naive Bayes classifier
+questions:
+  - question: In Naive Bayes, the Bayes comes from Bayes probability theorem. However, why is it called 'Naive' Bayes?
+    answers:
+      - 0
+      - 1
+      - 2
+    options:
+      - Because we makes naive assumptions
+      - for example, in titanic survival probability, we made the naive assumption that features such as cabin, fare etc are independent of each other.
+      - But in reality fare and cabin are in someway related.
+
+  - question: Select the use cases of naive bayes classifier.
+    answers:
+      - 0
+      - 1
+      - 2
+    options:
+      - spam detection
+      - facial recognition
+      - weather prediction
+
+  - question: Naive Bayes classifier is an unsupervised machine learning algorithm.
+    options:
+      - Yes
+      - No
+    answers:
+      - 1
