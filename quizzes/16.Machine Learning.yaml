@@ -37,3 +37,10 @@ questions:
       - the type which deals with discrete data
       - the type which deals with continous data
       - Multinomial Naive Bayes
+
+  - question: Pipelining in Sklearn is a way to short structure your model and do more with less code.
+    options:
+      - Yes
+      - No
+    answers:
+      - 0
