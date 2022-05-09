@@ -1,0 +1,39 @@
+topic: Machine Learning
+subject: Naive Bayes classifier and Count Vectorizer
+questions:
+  - question: What is count vectorizer?
+    answers:
+      - 0
+      - 1
+      - 2
+    options:
+      - It is a tool used to transform a given text into a vector on the basis of the frequency (count) of each word that occurs in the entire text.
+      - CountVectorizer creates a matrix in which each unique word is represented by a column of the matrix, and each text sample from the document is a row in the matrix. T
+      - he value of each cell is nothing but the count of the word in that particular text sample.
+
+  - question: How many types of Naive Bayes classifier?
+    answers:
+      - 0
+    options:
+      - 3
+      - 2
+      - 1
+
+  - question: Select the naive bayes classifier types.
+    answers:
+      - 0
+      - 1
+      - 2
+    options:
+      - Bernoulli
+      - Multinomial
+      - Gausssian
+
+  - question: Which type of Naive Bayes is used in text learning?
+    answers:
+      - 0
+      - 2
+    options:
+      - the type which deals with discrete data
+      - the type which deals with continous data
+      - Multinomial Naive Bayes
