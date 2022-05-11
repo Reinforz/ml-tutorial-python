@@ -30,3 +30,18 @@ questions:
       - No
     answers:
       - 0
+
+  - question: Lasso Regularization is L1 regularization.
+    options:
+      - Yes
+      - No
+    answers:
+      - 0
+
+  - question: What is the L2 regularization provided by sk learn library?
+    answers:
+      - 0
+    options:
+      - Ridge Regularization
+      - Lasso Regularization
+      - Linear Regularization
