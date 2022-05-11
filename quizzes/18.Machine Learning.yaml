@@ -1,0 +1,32 @@
+topic: Machine Learning
+subject: L1 and L2 Regularization | Lasso, Ridge Regression
+questions:
+  - question: How many types of fitting a dataset?
+    answers:
+      - 0
+    options:
+      - 3
+      - 2
+      - 4
+
+  - question: Balanced fit, overfit and underfit are three types of fit for a dataset.
+    options:
+      - Yes
+      - No
+    answers:
+      - 0
+
+  - question: What is regularization of a model?
+    answers:
+      - 0
+    options:
+      - In regularization, the mean square error is controlled by penalizing higher valued features of a dataset.
+      - It is a regular machine Learning model.
+      - It helps regularize abnormalities in a dataset.
+
+  - question:
+      L1 regularization penalizes the sum of absolute values of the weights, whereas L2 regularization penalizes the sum of squares of the weights.
+      - Yes
+      - No
+    answers:
+      - 0
