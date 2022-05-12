@@ -1,0 +1,12 @@
+topic: Machine Learning
+subject: K nearest neighbors classification
+questions:
+  - question: What is k nearest neighbors classification?
+    answers:
+      - 0
+      - 1
+      - 2
+    options:
+      - K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on Supervised Learning technique.
+      - You find out the most near K neighbors. And based on that number of neighbors, we classify our new datapoint.
+      - The value of is found through trial and error. It should not be too high or too low.
