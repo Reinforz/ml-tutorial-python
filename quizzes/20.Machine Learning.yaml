@@ -41,3 +41,11 @@ questions:
       - The curse of dimensionality basically means that the error increases with the increase in the number of features.
       - It refers to the fact that algorithms are harder to design in high dimensions and often have a running time exponential in the dimensions.
       - A higher number of dimensions theoretically allow more information to be stored, but practically it rarely helps due to the higher possibility of noise and redundancy in the real-world data.
+
+  - question: PCA(0.95) what does this mean?
+    answers:
+      - 0
+    options:
+      - Retain 95% of the useful features of the dataset.
+      - Same as PCA(n_components=6)
+      - Same as PCA(n_components=10)
