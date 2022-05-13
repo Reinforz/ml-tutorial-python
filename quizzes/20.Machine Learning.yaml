@@ -1,0 +1,43 @@
+topic: Machine Learning
+Subject: Principal component analysis
+questions:
+  - question: What is principal component analysis?
+    answers:
+      - 0
+      - 1
+      - 2
+    options:
+      - It is a process of figuring out most important features that has the most impact on the target variable
+      - It is a process of figuring out the principal components that has the most impact on the target variable
+      - It is called dimensionality reduction technique as it can help us reduce dimensions.
+
+  - question: PCA(n_components=6), what does this mean?
+    answers:
+      - 0
+      - 1
+    options:
+      - Select the most important 6 features
+      - Select 6 principal components
+      - Run PCA 6 times
+
+  - question: Scale features before applying PCA.
+    options:
+      - Yes
+      - No
+    answers:
+      - 0
+
+  - question: Accuracy might drop due to PCA.
+    options:
+      - Yes
+      - No
+    answers:
+      - 0
+
+  - question: Select the correct options related to curse of dimensionality.
+    answers:
+      - 0
+    options:
+      - The curse of dimensionality basically means that the error increases with the increase in the number of features.
+      - It refers to the fact that algorithms are harder to design in high dimensions and often have a running time exponential in the dimensions.
+      - A higher number of dimensions theoretically allow more information to be stored, but practically it rarely helps due to the higher possibility of noise and redundancy in the real-world data.
