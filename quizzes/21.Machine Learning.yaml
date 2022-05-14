@@ -1,0 +1,33 @@
+topic: Machine Learning
+subject: Bias vs Variance in Machine Learning
+questions:
+  - question: What is high variance ?
+    answers:
+      - 0
+
+    options:
+      - When the test error varies greatly based on the selection of train datapoints then it means there is high variance
+      - When the datapoints in a dataset vary greatly
+
+  - question: In case of high variance using overfit model, the train error is generally zero.
+    options:
+      - Yes
+      - No
+    answers:
+      - 0
+
+  - question: What is bias in machine learning?
+    answers:
+      - 0
+    options:
+      - Bias is a phenomenon that skews the result of an algorithm in favor or against an idea.
+      - A low bias model will closely match the training data set.
+      - A high bias model will give high training dataset error
+
+  - question: Select the characteristics of the balanced fit model.
+    answers:
+      - 0
+    options:
+      - low variance and low bias
+      - high bias and high variance
+      - high bias and low variance
