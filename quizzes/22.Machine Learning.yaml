@@ -1,3 +1,35 @@
 topic: Macchine Learning
 subject: Ensemble Learning bagging
 questions:
+  - question: What is ensemble learning?
+    answers:
+      - 0
+      - 1
+    options:
+      - ensemble methods use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms alone
+      - it is best suited with datasets which has high variance
+      - it is best suited with datasets which has low variance
+
+  - question: What the are types of ensemble learning?
+    answers:
+      - 0
+    options:
+      - Bagging
+      - Boosting
+      - Hitting
+
+  - question: Bagging is also called bootstrap aggregation.
+    options:
+      - Yes
+      - No
+    answers:
+      - 0
+
+  - question: Select the correct options
+    answers:
+      - 0
+      - 1
+    options:
+      - For bagging, underlying model can be anything (SVM,knn,logistic regression etc.)
+      - Random forest is a type of bagging and here each model is called a bagged tree
+      - ramdom forest is not a type of bagging
